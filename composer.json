@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "First pet project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "license": "proprietary",
+    "minimum-stability": "beta",
+    "bin": [
+        "bin/brain-games"
+    ],
+    "require": {}
+}
